@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1584209020 source:c:\users\youne\onedrive\desktop\c_exercices\project_bibliotheque\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1716972622 source:c:\users\youne\onedrive\desktop\project_bibliotheque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"biblio.h"
+
+1716970923 source:c:\users\youne\onedrive\desktop\project_bibliotheque\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"biblio.h"
+
+1716940502 c:\users\youne\onedrive\desktop\project_bibliotheque\biblio.h
+
